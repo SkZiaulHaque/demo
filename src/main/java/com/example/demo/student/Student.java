@@ -6,7 +6,7 @@ import java.time.Period;
 
 @Entity
 @Table
-//this is a student class
+//this is a student class edit
 public class Student {
     @Id
     @SequenceGenerator(
